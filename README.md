@@ -8,6 +8,7 @@
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:polcampru@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/polcamprubiprats/)
+[![POLCAMPRUBI.COM](https://img.shields.io/badge/-POLCAMPRUBI.COM-97B947?style=for-the-badge&logo=react&logoColor=white)](https://polcamprubi.com/)
 
 ##### Languages I use
 
