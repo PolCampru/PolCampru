@@ -1,6 +1,6 @@
 ##### Hello Greeks! 👋, I'm Pol Camprubí:
 
-- 🎓 Hi I'm [@PCampru](https://github.com/PCampru), a Computer Science graduate from [@UPC](https://github.com/UPC).
+- 🎓 Hi I'm [@PolCampru](https://github.com/PCampru), a Computer Science graduate from [@UPC](https://github.com/UPC).
 - 👀 I'm interested in web and mobile development, frontend and backend.
 - 🪐 Looking forward to learn and develop great ideas.
 - :speech_balloon: Ask me about full-stack, web or anything!
