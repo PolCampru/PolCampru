@@ -2,6 +2,7 @@
 
 - 🎓 Hi I'm [@PolCampru](https://github.com/PolCampru), a Computer Science graduate from [@UPC](https://github.com/UPC).
 - 👀 I'm interested in web and mobile development, frontend and backend.
+- 🌱 I’m currently learning React.
 - 🪐 Looking forward to learn and develop great ideas.
 - :speech_balloon: Ask me about full-stack, web or anything!
 - :mailbox: You can reach me with the links below
