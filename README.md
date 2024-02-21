@@ -17,6 +17,7 @@
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![CSS](https://camo.githubusercontent.com/c56bec07b3117b3df94a99beede390b03b30ec8a4f69e479d1683764ed266ae8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3030303f266c6f676f3d43535333)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
