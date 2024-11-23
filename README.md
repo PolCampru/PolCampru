@@ -1,6 +1,6 @@
 ##### Hello Greeks! 👋, I'm Pol Camprubí:
 
-- 🎓 Hi I'm [@PolCampru](https://github.com/PolCampru), a Computer Science graduate from [@UPC](https://github.com/UPC).
+- 🎓 Hi I'm [@PolCampru](https://github.com/PolCampru), a Software Engineer from [@UPC](https://github.com/UPC).
 - 👀 I'm interested in web and mobile development, frontend and backend.
 - 🌱 I’m currently learning React.
 - 🪐 Looking forward to learn and develop great ideas.
@@ -17,21 +17,20 @@
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
-![CSS](https://camo.githubusercontent.com/c56bec07b3117b3df94a99beede390b03b30ec8a4f69e479d1683764ed266ae8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3030303f266c6f676f3d43535333)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 ##### Some of the technologies I have worked with
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Figma](https://img.shields.io/badge/-Figma-222222?style=flat&logo=figma&logoColor=61DAFB)
-![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
-![MacOS](https://img.shields.io/badge/-MacOS-222222?style=flat&logo=Apple&logoColor=FCC624)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![MacOS](https://img.shields.io/badge/-MacOS-222222?style=flat&logo=Apple&logoColor=FCC624)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
+![Figma](https://img.shields.io/badge/-Figma-222222?style=flat&logo=figma&logoColor=61DAFB)
 
 ##### Fun fact: I once solved the world's oldest question with a single line of code
 <!-- wi*quL3fcV -->
